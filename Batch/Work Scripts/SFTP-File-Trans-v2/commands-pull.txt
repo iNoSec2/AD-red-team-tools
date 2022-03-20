@@ -1,0 +1,4 @@
+open sftp://<USERNAME>:<PASSWORD>@<IPADDR>
+option confirm off
+get /home/<SOURCE> T:\<DESTINATION>
+exit

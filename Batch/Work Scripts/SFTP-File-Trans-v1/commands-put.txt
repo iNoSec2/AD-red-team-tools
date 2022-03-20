@@ -1,0 +1,3 @@
+open sftp://<USERNAME>:<PASSWORD>@<DOMAIN>
+put X:\ca*
+exit
